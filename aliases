@@ -1,0 +1,5 @@
+alias be="bundle exec"
+alias debug="git diff | grep -E 'console|binding|puts'"
+alias routes="bundle exec rake routes"
+alias migrate="bundle exec rake db:migrate"
+alias hellyes="sudo"
